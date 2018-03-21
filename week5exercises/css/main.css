@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+}
+.jumbotron{
+	background-color: aqua;
+	height: 600px;
+	padding: 200px 0px;
+	text-align: center;
+}
+.container div{
+	
+	text-align: center;
+}
+.container h3{
+	text-align: center;
+	color: white;
+}
+.container p{
+	text-align: center;
+	color: green;
+}

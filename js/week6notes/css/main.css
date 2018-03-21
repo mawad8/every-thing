@@ -1,0 +1,29 @@
+#slideMe{
+	/* display: none; */
+}
+#animateMe{
+	height: 200px;
+	width: 200px;
+	background-color: springgreen;
+}
+/* #animateMe:hover{
+	height: 400px;
+	background-color: tomato;
+} */
+
+div{
+	height: 1000px;
+}
+.sec1{
+	background-color: fuchsia;
+}
+.sec2{
+	background-color: cyan;
+}
+.sec3{
+	background-color: lightslategray;
+}
+
+#navBah{
+	position: fixed;
+}
